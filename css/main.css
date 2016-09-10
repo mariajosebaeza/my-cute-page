@@ -1,0 +1,39 @@
+.menu1 {
+	text-decoration: none;
+	padding-top: 17px;
+	padding-bottom: 17px;	
+	text-align: center;
+	display: inline-block;
+}
+.image1 {
+	background-image: url("../images/background.jpg");
+	background-size: cover;
+	background-position: center;
+	width: 1500px;
+	height: 900px;
+}
+.textfondo {
+	color: white;
+	padding-top: 100px;
+	font-family: 'Oswald', sans-serif;
+}
+.section1 {
+	text-align: center;
+	padding-top: 90px;
+	padding-left: 250px;
+	font-family: 'Oswald', sans-serif;
+}
+.logo{
+	width: 5%;
+	height: 5%;
+	padding-top: 90px;
+	padding-left: 300px; 
+
+}
+.parrafo1 {
+	margin-bottom: 10px;
+}
+.deco-none{
+	text-decoration: none;
+	color: black;
+}
